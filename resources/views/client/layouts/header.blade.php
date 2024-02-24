@@ -59,8 +59,8 @@
                     <li class="mini-auth menu-item-has-children">
                         <a href="#"><i class="fa fa-user has-circle"></i></a>
                         <ul class="sub-nav">
-                            <li><a href="#">Sign In</a></li>
-                            <li><a href="#">Sign Up</a></li>
+                            <li><a href="{{ route('login') }}">Sign In</a></li>
+                            <li><a href="{{ route('register') }}">Sign Up</a></li>
 
                         </ul>
                     </li>

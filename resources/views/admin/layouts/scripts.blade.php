@@ -12,6 +12,8 @@
 
 <!-- Main JS -->
 <script src="{{ asset('template/backend/assets/js/main.js') }}"></script>
+<script src="{{ asset('template/backend/assets/js/upload-image.js') }}"></script>
+
 
 <!-- Page JS -->
 <script src="{{ asset('template/backend/assets/js/dashboards-analytics.js') }}"></script>

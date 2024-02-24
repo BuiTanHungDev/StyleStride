@@ -49,7 +49,13 @@
     <!--[if lt IE 9]>
       <script type='text/javascript' src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+
     <![endif]-->
+
+    
+    <!-- login -->
+    {{-- <link rel="stylesheet" href="{{ asset('template/frontend/login/css/style.css') }}"> --}}
+    <link rel="stylesheet" href="{{ asset('template/frontend/login/fonts/material-icon/css/material-design-iconic-font.min.css') }}">
 
 @yield('head')
 

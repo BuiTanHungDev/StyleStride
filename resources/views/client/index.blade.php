@@ -1,5 +1,4 @@
 @extends('client/layouts/master')
-
 @section('content')
     <div id="slideshow">
         <div class="revolution-slider">

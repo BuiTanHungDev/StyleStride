@@ -32,4 +32,7 @@
 
  <script type="text/javascript" src="{{ asset('template/frontend/js/revolution-slider.js') }}"></script>
 
+ <!-- Login page-->
+ <script src="{{ asset('template/frontend/login/vendor/jquery/jquery.min.js') }}"></script>
+<script src="{{ asset('template/frontend/loginjs/main.js')}}"></script>
  @yield('scripts')
